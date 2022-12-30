@@ -13,8 +13,9 @@ Kernel made cheat using KDmapper driver, can implement your own mapper if you ha
 - Extra features:  `Infinite Stamina, Move Whilst CMS / Surv Kitting, Faster Examine, Faster Reload, Fast Weapon Swap, Loot Through Walls`
 - `COMES WITH CLEANER(Cleaner is outdated, windows reinstall recommended)`
 
-**To check out our full line of UPDATED cheats fully ready with one click install, please visit:** https://labscheats.com
-Join our discord! https://discord.gg/labs
+#### **To check out our full line of UPDATED cheats fully ready with one click install, please visit:** https://labscheats.com
+
+#### Join our discord! https://discord.gg/labs
 
 
 (DO NOT ASK FOR HELP WITH SETTING THIS UP, THIS SOFTWARE IS PROVIDED AS IS. WE only provide support on paid cheats) 
