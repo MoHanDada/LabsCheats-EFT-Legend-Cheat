@@ -6,12 +6,12 @@ Kernel made cheat using KDmapper driver, can implement your own mapper if you ha
 ###### ❌ Use it at your own risk.
 **WARNING: THIS CHEAT IS PUBLIC. PLEASE USE ONLY FOR EDUCATIONAL PURPOSES. TO PURCHASE PRIVATE UNDETECTED CHEATS VISIT** https://labscheats.com
 
-####Features:
--Player Visuals: `Dead body ESP, See Loot Before Fully Loading Into Raid, Player ESP, Name ESP, Grenade ESP, Skeleton, Show Health, Distance ESP`
--Aimbot: `Aim Lock, BlueTrack, Jump Shot Aimbot, No Recoil, Magic Bullet, And Magic Grenade.`
--Loot ESP: `Show Loot, Extremely Customizable ESP Menu, Show Containers, Show Exits, Show All Container Items`
--Extra features:  `Infinite Stamina, Move Whilst CMS / Surv Kitting, Faster Examine, Faster Reload, Fast Weapon Swap, Loot Through Walls`
--`COMES WITH CLEANER(Cleaner is outdated, windows reinstall recommended)`
+#### Features:
+- Player Visuals: `Dead body ESP, See Loot Before Fully Loading Into Raid, Player ESP, Name ESP, Grenade ESP, Skeleton, Show Health, Distance ESP`
+- Aimbot: `Aim Lock, BlueTrack, Jump Shot Aimbot, No Recoil, Magic Bullet, And Magic Grenade.`
+- Loot ESP: `Show Loot, Extremely Customizable ESP Menu, Show Containers, Show Exits, Show All Container Items`
+- Extra features:  `Infinite Stamina, Move Whilst CMS / Surv Kitting, Faster Examine, Faster Reload, Fast Weapon Swap, Loot Through Walls`
+- `COMES WITH CLEANER(Cleaner is outdated, windows reinstall recommended)`
 
 **To check out our full line of UPDATED cheats fully ready with one click install, please visit:** https://labscheats.com
 Join our discord! https://discord.gg/labs
